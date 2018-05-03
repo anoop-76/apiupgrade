@@ -11,7 +11,7 @@
 *API Upgrade Automation* can be executed as mentioned below
 
 ```
-$ git clone git@git.soma.salesforce.com:anoop-singh/apiupgrade.git
+$ git clone git@github.com:anoop-76/apiupgrade.git
 
 $ cd apiupgrade
 
